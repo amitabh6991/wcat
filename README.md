@@ -1,6 +1,6 @@
 # wcat
-- wCat is a clone of cat command available in bash but not in windows cmd. 
-- It is used to display or make a copy content of one or more files in the terminal 
+## wCat is a clone of cat command available in bash but not in windows cmd. 
+### It is used to display or make a copy content of one or more files in the terminal 
 
 
 - General Syntax:
@@ -20,3 +20,7 @@
 - Edge cases:
 - 1- If file entered is not found then it gives file does not exist error.
 - 2- -n and -b are 2 options which are mutually exclusive so if user types both of them together only the first enter option should work.
+## Language and Library used
+  * Javascript
+  * Node.js
+
